@@ -1,11 +1,8 @@
 ### Hi there 👋
+- 🎓 Pursuing Bachelor's Computer Applications.
+- 💌 Interested in coding, and learning new technology related to computers.
+- ⚙️ Tech Enthusiast
 
-<!--
-**bhavesh003/bhavesh003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 📫 How to reach me: ...
-  👨🏻‍💻 LinkedIn : https://www.linkedin.com/in/the-bhavesh-03/
-  🍸 Instagram : https://www.instagram.com/the_bhavesh_03/
--->
+- 👨🏻‍💻 LinkedIn : https://www.linkedin.com/in/the-bhavesh-03/
+- 🍸 Instagram : https://www.instagram.com/the_bhavesh_03/
