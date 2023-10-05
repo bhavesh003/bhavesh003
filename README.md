@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🎓 Pursuing Bachelor's Computer Applications.
+- 🎓 Pursuing Master's in Computer Applications.
 - 💌 Interested in coding, and learning new technology related to computers.
 - ⚙️ Tech Enthusiast
 
